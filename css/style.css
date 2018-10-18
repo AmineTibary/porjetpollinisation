@@ -1,0 +1,199 @@
+@media screen and (min-width: 1240px) {
+
+	body {
+		width: 57%;
+		margin-top: 0; margin-right: auto; margin-left: auto;
+		padding-top: 0;
+		font-family: Gotham;
+		text-align: center;
+		background-image: url("../Img/wallpaper_ya.jpg");
+		background-size: 100%;
+	}
+
+	header {
+		margin-right: auto; margin-left: auto;
+		margin-bottom: 15%;
+	}
+
+	nav {
+		text-align: left;
+		padding-top: 15px;
+	}
+
+	a {
+		color: #000000;
+		text-decoration: none;
+		padding-right: 1%;
+	}
+
+	a:hover {
+		color: #ffd855;
+	}
+
+	h1 {
+		font-family: Pacifico;
+		font-size: 28px;
+	}
+
+	.yellowicon {
+		width: 3%;
+		position: absolute;
+		padding-top: 2%;
+		text-align: left;
+	}
+
+	.yellowiconcontent2 {
+		width: 3%;
+		position: absolute;
+		padding-top: 1.5%;
+		margin-left: 9%;
+	}
+
+	.yellowiconcontent3 {
+		width: 3%;
+		position: absolute;
+		padding-top: 3%;
+		left : 22.5%;
+	}
+
+	.bigtitletest {
+		position: relative;
+		padding-left: 3%;
+		padding-top: 1.5%;
+		text-align: left;
+	}
+
+	.bigtitletest2 {
+		position: relative;
+		padding-left: 1.5%;
+		padding-top: 1.9%;
+	}
+
+	.content {
+		margin-top: 30px; margin-bottom: 30px;
+	}
+
+	.pagelink {
+		color: #ffd855;
+		text-decoration: none;
+	}
+
+	.headlogo {
+		width: 170px;
+		float: left;
+	}
+
+	.tdbigtitle {
+		width: 250px;
+		margin-right: auto; margin-left: auto;
+		background-color: #000000;
+		color: #FFFFFF;
+		border-radius: 25px;
+	}
+
+	.bigtitle {
+		font-family: Pacifico;
+	}
+
+	.paragraph {
+		line-height: 30px;
+		text-align: left;
+	}
+
+	.paragraph2 {
+		text-align: justify;
+		line-height: 30px;
+		margin-left: 52%;
+	}
+
+	.leftone {
+		width: 45%;
+		float: left;
+		padding: 2px;
+		text-align: justify;
+	}
+
+	.rightone {
+		width: 45%;
+		float: right;
+		padding: 2px;
+		padding-top: 70px;
+	}
+
+	.rightone3 {
+		width: 45%;
+		float: right;
+		text-align: justify;
+	}
+
+	.leftone3 {
+		width: 45%;
+		float: left;
+		padding-top: 100px;
+	}
+
+	.content1 {
+		clear: both;
+		text-align: justify;
+		margin-bottom: 5%;
+	}
+
+	.content2 {
+		width: 100%; height: 300px;
+		clear: both;
+		background-image: url("../Img/contentimg1.png");
+		background-position: left left;
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+	.content2title {
+		text-align: justify;
+		margin-left: 67%;
+		position: relative;
+		padding-top: 2%;
+	}
+
+	.content2img {
+		width: 100%;
+	}
+
+	.footerindex {
+		width: 100%!important; height: 150px;
+		background-color: #ffd855;
+		clear: both;
+		padding: 1%; padding-left: 2%;
+		text-align: left;
+	}
+
+	footer {
+		width: 100%!important;
+		clear: both;
+		padding-top: 70px;
+	}
+
+	.footlogo {
+		width: 25%;
+		float: right;
+	}
+
+	.logo3w {
+		width: 5%;
+	}
+
+	.footparagraph {
+		width: 44%;
+		background-color: #FFFFFF;
+	}
+
+	.footlinks {
+		color: #000000;
+	}
+
+	.footlinks:hover {
+		color: #000000;
+		text-decoration: underline overline;
+		padding-right: 3px;
+	}
+
+}
